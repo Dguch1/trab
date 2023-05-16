@@ -1,0 +1,52 @@
+header {
+    background-color: #383d58;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+
+#alura {
+    width: 20%;
+}
+
+.txt-esc {
+    display: inline-block;
+    margin: 16px;
+    padding: 24px;
+    justify-content: space-around;
+    font-size: 24px;
+}
+
+#escola {
+
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
+    
+}
+
+.txt-esc {
+    text-align: center;
+    margin-left: 550px;
+}
+
+ .escola {
+    display: flex;
+    background-image:linear-gradient(#383D58,#00c0eb);
+ }
+
+#marcos {
+    width: 90px;
+    height: 90px;
+}
+
+#guilherme {
+    width: 90px;
+    height: 90px;
+}
+
+body {
+    background-color: azure;
+}
